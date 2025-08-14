@@ -1,15 +1,11 @@
 # mdCSV
 mdCSV — A lightweight Python tool to edit, convert, and manage Markdown tables &amp; CSV files side-by-side with live preview.
 
-Got it — here’s an updated **README.md** with your new name, purpose, and branding baked in.
-
-````markdown
 # mdCSV
 
 **mdCSV** is a lightweight, no-dependency **Markdown ↔ CSV management tool** for Windows 11 built in pure Python (Tkinter).  
 It’s designed for **database-friendly workflows**, letting you easily **view, edit, convert, and export** Markdown tables to and from CSV — all side-by-side with a live Markdown preview.
 
----
 
 ## ✨ Features
 
@@ -34,7 +30,6 @@ It’s designed for **database-friendly workflows**, letting you easily **view, 
   - Open, Save, Save As
   - Remembers last opened file on startup
 
----
 
 ## 📦 Installation
 
