@@ -1,4 +1,6 @@
-# mdCSV | *Magic Plants Tools*
+# mdCSV 
+*Magic Plants Tools* — www.magicplants.net
+
 mdCSV — A lightweight Python tool to edit, convert, and manage Markdown tables &amp; CSV files side-by-side with live preview.
 
 # What does mdCSV do?
