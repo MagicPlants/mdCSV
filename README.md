@@ -37,7 +37,6 @@ It’s designed for **database-friendly workflows**, letting you easily **view, 
    ```powershell
    git clone https://github.com/YOURUSERNAME/mdCSV.git
    cd mdCSV
-````
 
 2. **(Optional) Create & activate the `mdCSV` environment**:
 
