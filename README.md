@@ -68,8 +68,9 @@ It’s designed for **database-friendly workflows**, letting you easily **view, 
 
 ## 📸 Screenshots
 
-*(Add screenshots here — one with preview mode, one with table mode)*
+<img width="1570" height="637" alt="mdCSV-screenshot1" src="https://github.com/user-attachments/assets/d4e0776a-20c7-4f77-97c5-4284978eb9f9" />
 
+<img width="1571" height="642" alt="mdCSV-screenshot2" src="https://github.com/user-attachments/assets/de0ccbdf-924d-4409-8dcc-769813732d21" />
 
 ## 📝 Requirements
 
