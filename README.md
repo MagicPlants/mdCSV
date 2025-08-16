@@ -39,17 +39,21 @@ mdCSV — A lightweight Python tool to edit, convert, and manage Markdown tables
    git clone https://github.com/MagicPlants/mdCSV.git
    cd mdCSV
 
+   ```
+
 2. **(Optional) Create & activate the `mdCSV` environment**:
 
    ```powershell
    python -m venv mdCSV
-   .\Scripts\Activate.ps1
+   .\mdCSV\Scripts\Activate.ps1
+   
    ```
 
 3. **Run mdCSV**:
 
    ```powershell
    python mdCSV.py
+   
    ```
 
 
