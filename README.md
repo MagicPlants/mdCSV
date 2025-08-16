@@ -43,7 +43,6 @@ mdCSV — A lightweight Python tool to edit, convert, and manage Markdown tables
 
    ```powershell
    python -m venv mdCSV
-   .\mdCSV\Scripts\Activate.ps1
    ```
 
 3. **Run mdCSV**:
